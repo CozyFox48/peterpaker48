@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Peter Paker</h1>
 <h3 align="center">A Full Stack Web Developer from CANADA</h3>
-
+<h3 align="center">
+    <a href="https://portfolio-peter-8c073.web.app/" target="_blank">Visit website</a>
+</h3>
 <h3 align="left">Languages and Tools:</h3>
 <code> <img height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> </code>
